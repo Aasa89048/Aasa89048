@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Aasa89048
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋, I'm RonaldoJR  
 
-<!---
-Aasa89048/Aasa89048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech (IT) student | 🌩️ Aspiring Cloud Software Engineer  
 
+- 🚀 Interested in building **AWS-based projects**  
+- 📚 Continuously learning and exploring new technologies  
+- 💻 Passionate about **Cloud Computing**, **Web Development**, and **Scalable Applications**  
+
+---
